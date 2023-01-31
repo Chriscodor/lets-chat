@@ -1,16 +1,11 @@
 //YOUR FIREBASE LINKS
-const firebaseConfig = {
-      apiKey: "AIzaSyDZ0UeA2-XbUtB5Te_GVgxq14mBwZuZyYM",
-      authDomain: "qwitter-49447.firebaseapp.com",
-      databaseURL: "https://qwitter-49447-default-rtdb.firebaseio.com",
-      projectId: "qwitter-49447",
-      storageBucket: "qwitter-49447.appspot.com",
-      messagingSenderId: "677048219615",
-      appId: "1:677048219615:web:bda1a7e1b38ca0c060f66a"
-    };
-    
-    // Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
+apiKey: "AIzaSyCgMm2Bna_QqEDffEtFeoGQSF4pF7TjYuE",
+      authDomain: "lets-chat-15f62.firebaseapp.com",
+      databaseURL: "https://lets-chat-15f62-default-rtdb.firebaseio.com",
+      projectId: "lets-chat-15f62",
+      storageBucket: "lets-chat-15f62.appspot.com",
+      messagingSenderId: "248933446181",
+      appId: "1:248933446181:web:03358ffdfea8b6845105cc"
 
 user_name = localStorage.getItem("user_name");
 room_name = localStorage.getItem("room_name");
